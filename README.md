@@ -37,18 +37,5 @@ a list of trailers.
 - [Bloc 8.0.2 (latest version)](https://pub.dev/packages/bloc)
 - [Cubit](https://pub.dev/packages/flutter_bloc)
   
-# Packages 
 
-- [dio](https://pub.dev/packages/dio)
-- [flutter_bloc](https://pub.dev/packages/flutter_bloc)
-- [flutter_modular](https://pub.dev/packages/flutter_modular)
-- [dartz](https://pub.dev/packages/dartz)
-- [equatable](https://pub.dev/packages/equatable)
-- [cached_network_image](https://pub.dev/packages/cached_network_image)
-- [carousel_slider](https://pub.dev/packages/carousel_slider)
-- [cupertino_icons](https://pub.dev/packages/cupertino_icons)
-- [flutter_rating_bar](https://pub.dev/packages/flutter_rating_bar)
-- [http_mock_adapter](https://pub.dev/packages/http_mock_adapter)
-- [mocktail](https://pub.dev/packages/mocktail)
-- [youtube_player_flutter](https://pub.dev/packages/youtube_player_flutter)
 
