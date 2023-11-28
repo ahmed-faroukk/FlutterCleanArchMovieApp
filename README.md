@@ -52,11 +52,3 @@ a list of trailers.
 - [mocktail](https://pub.dev/packages/mocktail)
 - [youtube_player_flutter](https://pub.dev/packages/youtube_player_flutter)
 
-# Future Roadmap
-
-- Add more screens
-- Add more features
-- Add animations
-- Polish the UI
-- Integrate a remote storage (probably Firebase)
-
